@@ -13,7 +13,7 @@ This is my very first portfolio. Within my portfolio, you can find the works i h
 https://kos-mosv4.github.io/jmolinaportfolio/
 
 ## Contribution
-Made with ❤️ by Jesus Molina
+Designed by Jesus Molina, with motivational support from someone SPECIAL💕
 
 
 ## Mol&Ram, Inc
